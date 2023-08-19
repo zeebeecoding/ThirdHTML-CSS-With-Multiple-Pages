@@ -1,4 +1,4 @@
-# ThirdHTML-CSS-With-Multiple-Pages
+# ThirdHTMLAssignment-With-Multiple-Pages
 
 Welcome to the ThirdHTML-CSS-With-Multiple-Pages repository! This repository contains my web development project for Assignment No. 3.
 
