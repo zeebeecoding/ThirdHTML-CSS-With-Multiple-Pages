@@ -24,7 +24,7 @@ Zeeshan Elahi
 
 ## Deployed Project
 
-You can view the deployed project here: [Project Demo](https://zeebeecoding.github.io/ThirdHTML-CSS-With-Multiple-Pages/)
+You can view the deployed project here: [Project Demo](https://zeebeecoding.github.io/ThirdHTMLAssgnment-With-Multiple-Pages/)
 ## How to Use
 
 To view the project, simply open the HTML files in a web browser. You can also clone the repository to your local machine:
